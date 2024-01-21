@@ -1,0 +1,18 @@
+C:\Users\COMPUTADOR\Documents\atividade senai\obj\Debug\net8.0\atividade senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTADOR\Documents\atividade senai\obj\Debug\net8.0\atividade senai.AssemblyInfoInputs.cache
+C:\Users\COMPUTADOR\Documents\atividade senai\obj\Debug\net8.0\atividade senai.AssemblyInfo.cs
+C:\Users\COMPUTADOR\Documents\atividade senai\obj\Debug\net8.0\atividade senai.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTADOR\Documents\Atividade\bin\Debug\net8.0\atividade senai.exe
+C:\Users\COMPUTADOR\Documents\Atividade\bin\Debug\net8.0\atividade senai.deps.json
+C:\Users\COMPUTADOR\Documents\Atividade\bin\Debug\net8.0\atividade senai.runtimeconfig.json
+C:\Users\COMPUTADOR\Documents\Atividade\bin\Debug\net8.0\atividade senai.dll
+C:\Users\COMPUTADOR\Documents\Atividade\bin\Debug\net8.0\atividade senai.pdb
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.AssemblyInfoInputs.cache
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.AssemblyInfo.cs
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.dll
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\refint\atividade senai.dll
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.pdb
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\atividade senai.genruntimeconfig.cache
+C:\Users\COMPUTADOR\Documents\Atividade\obj\Debug\net8.0\ref\atividade senai.dll
